@@ -1,5 +1,5 @@
 summer_olympics = {
-  "Athens" => "1996"
+  "Athens" => "1996",
   "Sydney" => "2000",
   "Athens" => "2004",
   "Beijing" => "2008",
